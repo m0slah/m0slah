@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Next.js
 
-- 👨‍💻 All of my projects are available at [https://m0slah.netlify.app/](https://m0slah.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://m0slah.netlify.app](https://m0slah.netlify.app/)
 
 - 📫 How to reach me **muhammedslah098765@gmail.com**
 
