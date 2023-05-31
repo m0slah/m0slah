@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm MO Slah</h1>
+<h1 align="center">Hi👋, I'm MO Slah</h1>
 <h3 align="center">I'm MO Slah Front-end Developer in Kurdistan-Iraq</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0slah&label=Profile%20views&color=0e75b6&style=flat" alt="m0slah" /> </p>
