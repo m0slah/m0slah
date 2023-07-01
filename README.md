@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/m0slah" target="blank"><img src="https://img.shields.io/twitter/follow/m0slah?logo=twitter&style=for-the-badge" alt="m0slah" /></a> </p>
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Vue.js
 
 - 👨‍💻 All of my projects are available at [https://m0slah.netlify.app](https://m0slah.netlify.app/)
 
