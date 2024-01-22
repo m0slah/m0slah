@@ -31,8 +31,7 @@
 
 
 <p align="center">
-    <!-- GitHub Readme Stats Card -->
-    <img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=moslah&show_icons=true&theme=dark" alt="GitHub Readme Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=moslah&show_icons=true&theme=dark" alt="GitHub Readme Stats for moslah">
 </p>
 
 <p align="center">
@@ -44,6 +43,6 @@
 
 <p align="center">
     <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
-        <img src="https://github-readme-stats.vercel.app/api?username=m0slah&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=m0slah&show_icons=true&theme=dark">
     </a>
 </p>
