@@ -32,8 +32,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=moslah&show_icons=true&theme=dark&border_color=800000">
-    <img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=m0slah&theme=dark&border=800000">
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app?user=m0slah&theme=dark)](https://git.io/streak-stats)</p>
 
 <p align="center">
     <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
