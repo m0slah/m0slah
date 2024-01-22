@@ -44,6 +44,6 @@
 
 <p align="center">
     <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt">
-        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api?username=m0slah&show_icons=true">
     </a>
 </p>
