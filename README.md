@@ -39,7 +39,7 @@
     </a>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0slah&layout=compact" alt="GitHub Readme Stats for moslah">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0slah&layout=compact&theme=dark" alt="GitHub Readme Stats for moslah">
 </p>
 
 
