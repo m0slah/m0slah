@@ -47,9 +47,4 @@
 </p>
 
 
-<p align="center">
-    <img src="https://wakatime.com/badge/user/018d329a-d849-4bd7-aa59-b06d3d19d4ef.svg" alt="GitHub Readme Stats for moslah">
-</p>
-
-
-
+<a href="https://wakatime.com/@018d329a-d849-4bd7-aa59-b06d3d19d4ef"><img src="https://wakatime.com/badge/user/018d329a-d849-4bd7-aa59-b06d3d19d4ef.svg" alt="Total time coded since Jan 22 2024" /></a>
