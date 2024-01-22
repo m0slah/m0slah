@@ -31,3 +31,11 @@
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=m0slah&show_icons=true alt=Elangovan />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=moslah&show_icons=true&theme=merko&border_color=599200">
+
+<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=m0slah&theme=merko&border=599200">
+
+<p align="center">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=m0slah&theme=merko&layout=compact&border_color=599200&langs_count=6">
