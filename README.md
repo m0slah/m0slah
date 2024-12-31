@@ -1,6 +1,3 @@
-  
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img 
@@ -10,12 +7,11 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example">
 </p>
-   
-<div>
+
+<div align="center">
   <h2 id="experience-with">🛠️ &nbsp;Experience With</h2>
   
   <h3>Frontend Development</h3>
@@ -37,9 +33,9 @@
     <img src="https://img.shields.io/badge/-Framer_Motion-0D1117?style=flat&logo=Framer" alt="Framer Motion" />&nbsp;
     <img src="https://img.shields.io/badge/-Font_Awesome-0D1117?style=flat&logo=FontAwesome" alt="Font Awesome" />&nbsp;
     <img src="https://img.shields.io/badge/-Material_Icons-0D1117?style=flat&logo=MaterialIcons" alt="Material Icons" />
-      <img src="https://img.shields.io/badge/-Git-0D1117?style=flat&logo=Git" alt="Git" />&nbsp;
+    <img src="https://img.shields.io/badge/-Git-0D1117?style=flat&logo=Git" alt="Git" />&nbsp;
     <img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=GitHub" alt="GitHub" />&nbsp;
-      <img src="https://img.shields.io/badge/-Pinia-0D1117?style=flat&logo=Pinia" alt="Pinia" />&nbsp;
+    <img src="https://img.shields.io/badge/-Pinia-0D1117?style=flat&logo=Pinia" alt="Pinia" />&nbsp;
     <img src="https://img.shields.io/badge/-Vue_Router-0D1117?style=flat&logo=VueRouter" alt="Vue Router" />&nbsp;
     <img src="https://img.shields.io/badge/-Vuetify-0D1117?style=flat&logo=Vuetify" alt="Vuetify" />&nbsp;
     <img src="https://img.shields.io/badge/-Vue_CLI-0D1117?style=flat&logo=Vue.js" alt="Vue CLI" />&nbsp;
@@ -55,5 +51,20 @@
     <img src="https://img.shields.io/badge/-Postman-0D1117?style=flat&logo=Postman" alt="Postman" />&nbsp;
     <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat&logo=Firebase" alt="Firebase" />&nbsp;
     <img src="https://img.shields.io/badge/-Socket_IO-0D1117?style=flat&logo=Socket.io" alt="Socket.io" />&nbsp;
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3 id="fire-my-stats">🔥 My Stats :</h3>
+  <p>
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=m0slah&theme=dark" alt="GitHub Streak">
+    </a> 
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0slah&layout=compact&theme=dark" alt="Top Langs">
+    </a>
   </p>
 </div>
